@@ -8,6 +8,7 @@
 [![Blog](https://img.shields.io/website?label=appunix.com.br&style=for-the-badge&url=https://appunix.com.br/)](https://appunix.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/natanaelfornel)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5F8WbjsbmY7A17MCMoONev?si=58cdb8b8ebb34fcb)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanael.fornel@gmail.com)
 
 ![Natanael GitHub stats](https://github-readme-stats.vercel.app/api?username=natanaelfornel&show_icons=true&theme=dark&count_private=true)
 
@@ -28,5 +29,6 @@
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div><br/>
+
 
 
